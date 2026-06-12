@@ -1,0 +1,10 @@
+import React from 'react';
+import SanphamSqlite from './SanphamSqlite';
+
+const App = () => {
+  return <SanphamSqlite />;
+};
+
+export default App;
+
+
